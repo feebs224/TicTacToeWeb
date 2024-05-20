@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6gSVOhjAveo=",
+  "dgSpecHash": "eYAl0fTLbfU=",
   "success": true,
   "projectFilePath": "/Users/fibiyoussef/Desktop/projects/TicTacToeWeb/TicTacToeWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fibiyoussef/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/Users/fibiyoussef/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/Users/fibiyoussef/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.30/microsoft.netcore.app.host.osx-arm64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
