@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using TicTacToeWeb.Models;
+using Microsoft.Extensions.Logging;
 
 namespace TicTacToeWeb.Controllers;
 
