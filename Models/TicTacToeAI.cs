@@ -1,4 +1,3 @@
-using TicTacToeWeb.Models;
 using System;
 
 namespace TicTacToeWeb.Models
@@ -72,3 +71,4 @@ namespace TicTacToeWeb.Models
         }
     }
 }
+
